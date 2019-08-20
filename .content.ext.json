@@ -1,0 +1,11 @@
+[
+  {
+    "mode": "File",
+    "pattern": "index.html",
+    "kind": "ApkIndex",
+    "data": {
+      "title": "Android Installation",
+      "show_local_files": true
+    }
+  }
+]
